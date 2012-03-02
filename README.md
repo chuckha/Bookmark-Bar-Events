@@ -12,6 +12,9 @@ How to use:
 2. In your browser, import the bookmark file.
 3. (optional) Enable the bookmark bar for easy use.
 
+Browsers
+--------
+
 The import has been tested on:
 
 * Chrome
