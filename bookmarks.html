@@ -5,7 +5,7 @@
 	<H1>Bookmarks</H1>
 	<DT><H3 FOLDED>Bookmarks Bar</H3>
 	<DL><p>
-		<DT><A HREF="javascript:e=document.createEvent('Event');e.initEvent('orientationchange',true,true);document.dispatchEvent(e);">dispatch orientationchange Event</A>
+		<DT><A HREF="javascript:e=document.createEvent('Event');if(window.orientation===0||undefined){window.orientation=90;}else{window.orientation=0;}e.initEvent('orientationchange',true,true);document.dispatchEvent(e);">orientationchange</A>
 	</DL><p>
 	<DT><H3 FOLDED>Bookmarks Menu</H3>
 	<DL><p>
