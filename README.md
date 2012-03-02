@@ -5,6 +5,8 @@ An HTML file that has a bunch of bookmark bar bookmarks that fire events on the 
 
         createEvent()
 
+see: [createEvent documentation](https://developer.mozilla.org/en/DOM/document.createEvent)
+
 How to use:
 -----------
 
